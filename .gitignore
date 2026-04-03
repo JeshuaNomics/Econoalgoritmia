@@ -2,3 +2,16 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bookdown cache
+_bookdown_files/
+**/*_cache/
+
+# Environment
+.env
+.env.*
+.Renviron
